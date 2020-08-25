@@ -2,7 +2,7 @@
 
 I am a dabbler of many things; 3D printing, biking, coding, gaming, geocaching, golfing horribly, guitar playing, hacking, hiking.... many things. I am addicted to having too many projects going at a time. Thrive under self-imposed pressure and unrealistic deadlines. 
 
-### Markdown
+### Current Dive
 
 Currently I am enjoying a dive into penetration testing using Arduino Boards, Raspberry Pi, and Onion Omega2.
 
@@ -23,5 +23,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<link rel="stylesheet" type="text/css" href="https://pfjava.globiflow.com/0-globiflow-cms-default-styles.css" />
-<script type="text/javascript" src="https://pfjava.globiflow.com/15773-6521-24898137-0.js"></script>
