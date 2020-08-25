@@ -23,5 +23,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+<link rel="stylesheet" type="text/css" href="https://pfjava.globiflow.com/0-globiflow-cms-default-styles.css" />
 <script type="text/javascript" src="https://pfjava.globiflow.com/15773-6521-24898137-0.js"></script>
