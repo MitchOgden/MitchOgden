@@ -14,6 +14,12 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
  - Ruby
  - PHP
  - Python
+ 
+# Databases/Data Structures Known:
+
+ - RDBMS(MySQL, SQL, Oracle SQL)
+ - JSON
+ - XML
 
 # Frameworks Known:
 
@@ -22,6 +28,10 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
  - Ruby on Rails
  - Laravel
  - Flask
+ 
+# Development Platforms Known:
+ - Firebase
+ - AWS
  
 # OS Tools/Platforms Known:
 
