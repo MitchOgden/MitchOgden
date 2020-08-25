@@ -1,6 +1,6 @@
 ## My Name is Mitchell Ogden
 
-I am a dabbler of many things; 3D printing, biking, coding, gaming, geocaching, golfing horribly, guitar playing, hacking, hiking.... many things. I am addicted to having too many projects going at a time. Thrive under self-imposed pressure and unrealistic deadlines. 
+I am a dabbler of many things; 3D printing, biking, coding, gaming, geocaching(newly), golfing horribly, guitar playing, hacking, hiking.... many things. I am addicted to having too many projects going at a time. Thrive under self-imposed pressure and unrealistic deadlines. 
 
 ### Current Dive
 
