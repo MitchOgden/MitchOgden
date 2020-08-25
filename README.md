@@ -13,7 +13,7 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
  - HTML/CSS
  - Ruby
  - PHP
- - Python 
+ - Python
 
 # Frameworks Known:
 
@@ -22,6 +22,12 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
  - Ruby on Rails
  - Laravel
  - Flask
+ 
+# OS Tools/Platforms Known:
+
+ - Powershell
+ - CMD
+ - Bash
  
 # CMSs Known:
 
