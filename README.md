@@ -30,6 +30,7 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
  - Flask
  
 # Development Platforms Known:
+
  - Firebase
  - AWS
  
