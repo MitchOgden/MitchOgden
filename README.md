@@ -7,6 +7,11 @@ I am a dabbler of many things; 3D printing, biking, coding, gaming, geocaching(n
 Currently I am enjoying a dive into penetration testing using Arduino Boards, Raspberry Pi, and Onion Omega2.
 
 ```markdown
+# Business Services Offered:
+ - Website Design/Development
+ - Infrastructure Design/Development
+ - Brand/Identity Design/Development
+
 # Languages Known:
 
  - JavaScript
@@ -56,3 +61,4 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
 
 ### Project Links
  - [Patreon - MitchScripts](https://www.patreon.com/mitchscripts)
+ - [On Point Accounting - Logo, Website, Phone System, Email, and Document Management System Design/Development](http://www.onpointacctg.com)
