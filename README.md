@@ -56,7 +56,6 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
 
  - SalesForce
  - Podio
- - SugarCRM
 ```
 
 ### Project Links
