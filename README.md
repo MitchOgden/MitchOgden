@@ -82,3 +82,7 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
 
  - [Patreon - MitchScripts](https://www.patreon.com/mitchscripts)
  - [On Point Accounting - Logo, Website, Phone System, Email, and Document Management System Design/Development](http://www.onpointacctg.com)
+
+### Pixel Art
+
+![Mario - SMRPG](https://dl.dropboxusercontent.com/s/w4z0omhga093qh6/SMRPG_Mario.svg?dl=0)
