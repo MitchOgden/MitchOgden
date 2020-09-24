@@ -85,4 +85,4 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
 
 ### Pixel Art
 
-![Mario - SMRPG](https://dl.dropboxusercontent.com/s/w4z0omhga093qh6/SMRPG_Mario.svg?dl=0)
+![Mario - SMRPG](https://dl.dropboxusercontent.com/s/rdsmtoa0v394hly/SMRPG_Mario.svg?dl=0)
