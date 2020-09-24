@@ -23,13 +23,14 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
    - Ruby
    - PHP
    - Python
-   - Java
+
   - OS:
    - Automation/Management:
     - Powershell
     - CMD
     - Bash
    - Application Development:
+    - Java
     - Visual Basic
 
 # Databases/Data Structures Known:
