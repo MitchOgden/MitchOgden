@@ -13,19 +13,29 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
  - Brand/Identity Design/Development
 
 # Languages Known:
+ - Web Development:
+  - Front End Development:
+   - HTML/CSS(Sass)
+   - JavaScript
+  - Back End Development:
+   - Ruby
+   - PHP
+   - Python
+   - Java
+  - OS:
+   - Automation/Management:
+    - Powershell
+    - CMD
+    - Bash
+   - Software Development:
+    - Visual Basic
 
- - JavaScript
- - HTML/CSS
- - Ruby
- - PHP
- - Python
- 
 # Databases/Data Structures Known:
 
  - RDBMS(MySQL, SQL, Oracle SQL)
- - JSON
- - XML
-
+ - NOSQL:
+  - Document-Oriented Databases(JSON, XML)
+  
 # Frameworks Known:
 
  - Ember.js
@@ -38,13 +48,7 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
 
  - Firebase
  - AWS
- 
-# OS Tools/Platforms Known:
 
- - Powershell
- - CMD
- - Bash
- 
 # CMSs Known:
 
  - WordPress
