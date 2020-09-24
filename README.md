@@ -27,7 +27,7 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
     - Powershell
     - CMD
     - Bash
-   - Software Development:
+   - Application Development:
     - Visual Basic
 
 # Databases/Data Structures Known:
