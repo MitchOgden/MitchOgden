@@ -8,11 +8,13 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
 
 ```markdown
 # Business Services Offered:
+
  - Website Design/Development
  - Infrastructure Design/Development
  - Brand/Identity Design/Development
 
 # Languages Known:
+
  - Web Development:
   - Front End Development:
    - HTML/CSS(Sass)
@@ -60,8 +62,22 @@ Currently I am enjoying a dive into penetration testing using Arduino Boards, Ra
 
  - SalesForce
  - Podio
+ 
+# LMSs Known:
+
+ - Canvas LMS
+ 
+# Infrastructure Mgmt Tools Known:
+
+ - Active Directory
+ - VMware
+  - vSphere
+ - MDT(Microsoft Deployment Toolkit)
+ - FOG Project
+ 
 ```
 
 ### Project Links
+
  - [Patreon - MitchScripts](https://www.patreon.com/mitchscripts)
  - [On Point Accounting - Logo, Website, Phone System, Email, and Document Management System Design/Development](http://www.onpointacctg.com)
